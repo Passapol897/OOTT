@@ -1,0 +1,15 @@
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\bin\Debug\net7.0\สอบ.exe
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\bin\Debug\net7.0\สอบ.deps.json
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\bin\Debug\net7.0\สอบ.runtimeconfig.json
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\bin\Debug\net7.0\สอบ.dll
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\bin\Debug\net7.0\สอบ.pdb
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.csproj.AssemblyReference.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.AssemblyInfoInputs.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.AssemblyInfo.cs
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.csproj.CoreCompileInputs.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.dll
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\refint\สอบ.dll
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.pdb
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\สอบ.genruntimeconfig.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\สอบ\obj\Debug\net7.0\ref\สอบ.dll
